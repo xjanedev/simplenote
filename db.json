@@ -1,9 +1,12 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "todos": [
+    {
+      "id": "ee25b2ba-6898-4466-8054-bc090f9a7122",
+      "title": "test!!",
+      "description": "test",
+      "isDone": false,
+      "deadline": "2023-11-20",
+      "tags": "시작 전"
+    }
+  ]
 }
